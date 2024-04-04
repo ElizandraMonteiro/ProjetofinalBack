@@ -2,10 +2,6 @@
   <h1 align="center"><a href="https://food-elizandramonteiro.netlify.app/">Food Explorer - Rocketseat Explorer :rocket: </a></h1>
 </p>
 
-<p align="center">
-  <img alt="Imagem Ilustrativa Light Mode" src="./public/01details.png" width="100%">
-</p>
-
 Este é o resultado do desafio final do Explorer, o Food Explorer.
 
 <br>
