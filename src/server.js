@@ -8,7 +8,6 @@ const routes = require("./routes");
 const database = require("./database/sqlite");
 
 const uploadConfig = require("./configs/upload");
-
 const cors = require("cors");
 
 const app = express();
@@ -35,6 +34,7 @@ app.use((error, request, response, next) => {
         status: "error",
         message: "Internal Server Error"
     })
-})
+});
+
 const PORT = process.env.PORT || 3333;
 app.listen(PORT, () => console.log(`Server is running on Port ${PORT}`));
