@@ -76,7 +76,7 @@ ___
 #### 💻 Executando o FrontEnd
 ```bash
 # Navegue até o diretório do FrontEnd
-$ cd food-explorer-frontend
+$ cd food-explorer
 
 # Instale as dependências necessárias
 $ npm install
@@ -92,7 +92,7 @@ $ npm run dev
 #### 💻 Executando o FrontEnd
 ```bash
 # Navegue até o diretório do FrontEnd
-$ cd food-explorer-frontend
+$ cd food-explorer
 
 # Instale as dependências necessárias
 $ npm install
